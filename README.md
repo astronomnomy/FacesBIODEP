@@ -1,3 +1,3 @@
-# RewardLearningBIODEP
-Code to analyse the Reward-Learning task for the BIODEP study
-FacesBIODEP
+# FacesBIODEP
+Code to analyse the Emotional faces task for the BIODEP study
+
